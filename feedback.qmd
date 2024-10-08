@@ -1,0 +1,51 @@
+---
+title: "Feedback on IIF workshop proposal"
+format:
+  memo-pdf:
+    fig-pos: 'H'
+---
+
+## Initial response from Tim
+
+Hi Bahman, 
+
+first off, thanks for submitting the proposal on an important topic. Second, I apologize for the time it took to get back to you. It was in parts due to the fact that we've had some discussions internally on how to respond to the workshop proposal (you saw an earlier accidentally sent email that externalized some of the concerns). 
+
+Our discussions have been so far non-conclusive and could be best summarized via the academic analogy of "major revision". We really like the topic and it strikes an important chord for the community and the IIF in particular. Neverthelss, we would also like to see some changes and have concerns about the format and budget. We couldn't fully align internally on what we would agree on, so instead of spending more time thinking about this, we would rather want to engage in a dialog with you to make changes and see how we could make this happen together.
+
+Here are our initial thoughts:
+
+Budget: 20k is a big ask and I don't think we can support this currently. 10k is more in line with what we can support. 
+
+Format/Content: we believe it to be challenging to find the right level of content. If it's about "how to forecast with Julia/Jax/R/Rust/etc" or "here's what we do at BigCompany and it's also open source" both topics would be somewhat hard to find the right audience. Especially the latter is probably best served at ISF -- maybe have a dedicated workshop on this around ISF? For a standalone workshop we would need to bring folks from all kinds of geographic backgrounds together to one place and I'm not sure if they'd be willing to do this and how expensive that would be. Virtual doesn't have the same kind of energy of course, I understand that. 5 days is a long time.
+
+Invitees: the workshop is a wonderful opportunity to reach out to folks not as close to the IIF who are active in forecasting (and who we'd like to see interacting closer with us). Hugging Face, LinkedIn (greykite), SalesForce (Merlion), Alibaba, sktime, and others should be there on the one hand and other, more "vendors" like type (SAP, SAS) would be somewhat harder unless they have a clear mandate to also talk about open source. Do we have a list of the most popular forecasting open source initiatives (e.g., by package downloads or github stars) and a means to reach out to them? The current list of invitees reads good, but I'm lacking a systematic approach here. Another systematic way would be to think about the different programming languages/paradigms and see if we have coverage on them (R, python, etc)?
+
+Additional suggestions: the Journal of Machine Learning Research has a track on open source software. Pierre is open to having a special section on open source software for forecasting in the IJF, but this needs further discussion.
+
+This answer probably doesn't really give you the clarity that you sought. Pierre suggested that we could also talk about this soon. So how about this: have a think with your co-organizers on our food for thought and then let's engage on a dialog. We'd love to see this through and help to make this happen. 
+
+Best,
+
+Tim (on behalf of Pierre & George)
+
+
+## Ivan's comments
+
+While we were waiting for the response on this one, we had to progress another workshop, and we will now host an IIF supported workshop in the memory of John Boylan at Lancaster in June 2024. I'm afraid that it might clash with the open source software one, and as a result I won't be able to contribute much to this one. I'd suggest postponing it to the 2025 if possible or to move it to the Autumn 2024. But this is just my personal opinion, I don't want to hold everyone back, so feel free to act as you see fit.
+
+
+## Mitch's response to feedback
+
+*   I disagree with the feedback "how to forecast with Julia/Jax/R/Rust/etc" or "here's what we do at BigCompany and it's also open source", but I can understand where it's coming from.
+    I think the emphasis here is on forecasting *software*, while these comments seem to emphasise *forecasting* software - at ISF the discussion is around the forecasts but in this workshop the discussion surrounds the software.
+    Focusing the event to include less training/workshop style sessions and instead be more of a discussion for forecasting software designs and techniques could improve the context of the event.
+    (and for the right audience, just discussing software design should be enough to understand how it is to be used for forecasting).
+
+*   I agree that 5 days is a long time, 2-3 days could work well and reduce budget
+
+*   I also agree with the comments on software, where there is a good outreach opportunity for software companies that do forecasting to get involved.
+    I think the spirit of open source is important here (say distinguishing LinkedIn/greykite and SalesForce/Merlion from SAP and SAS), where my preference would lean toward forecasting software collaboration/discussion.
+    I'm not against sessions which discuss closed-source internal tooling, but invitees/sessions need to be open enough to share their forecasting software philosophies, design decisions, and demo code.
+
+*   A more systematic invitation process is also nice to have and show - better than just whoever we know and think of.
