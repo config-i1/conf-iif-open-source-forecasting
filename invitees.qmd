@@ -1,0 +1,79 @@
+---
+title: "Potential invitees"
+format: memo-pdf
+--- 
+
+## Original invitees
+
+1. Rob J. Hyndman
+4. Tobiac Liboschik
+5. Daniele Girolimetto (ECR)
+6. Dario Azzimonti
+7. Nickalus Redell
+8. Ronit Jaiswal.
+9. Angelo Canty
+10. Jeffrey A. Ryan
+11. Paul-Christian Bürkner
+12. Mingzhi Shi (ECR)
+13. Harsha Charma (ECR)
+14. Resul Akay
+15. Dilini Talagala
+16. Thiyanga Talagala
+17. Pablo Montero Manso
+18. Christoph Bergmeir
+19. Zeynep Erkin Baz
+20. Puwasala Gamakumara
+21. Nikos Kourentzes
+22. Stephan Kolassa
+23. Sven Crone
+24. Oliver Schaer
+25. Tim Januschowski
+26. Anastasios Panagiotelis
+27. Syama Rangapuram
+28. Xiaoqian Wang
+29. Jan Gasthaus
+32. Max Mergenthaler
+33. Resul Akay
+34. Mahdi Abolghasemi (ECR)
+35. Jethro Browell
+36. Dejan Mircetic (ECR)
+37. Earo Wang
+38. Matt Dancho
+39. Galit Shmueli
+40. Florian Ziel
+41. Asael Alonzo Matamoros
+42. Sasan Barak
+43. Fotios Petropoulos
+44. Kandrika Pritularga
+45. Devon K. Barrow
+46. George Athanasopoulos
+47. Marco Peixeiro
+48. Alexander Alexandrov
+49. Rebecca Killick
+50. Oleksandr Shchur
+
+## Revised invitees
+
+I (Mitch) envision a smaller workshop (much like the forecast reconciliation workshop in Prato, https://robjhyndman.com/prato2023/).
+That workshop had a attendance limit of 30, by invitation only.
+
+The format of the list below is:
+```md
+* <full name> (<tags>)
+```
+
+Please include tags where possible to ensure a diverse range of invitees.
+
+**Organising committee**
+
+* Mitchell O'Hara-Wild (ECR, R, Academia, Industry, Software)
+* Ivan Svetunkov (R, Academia, Models)
+* Bahman Rostami-Tabar (R, Academia, Applications)
+* Azul Garza (Python, Industry, Software)
+* Shanika Wickramasuriya (R, Academia)
+<!-- * Franz Király (Python) -->
+
+**Potential keynote speakers**
+
+**General invitees**
+Invitees are invited to propose a talk, or otherwise simply attend.
