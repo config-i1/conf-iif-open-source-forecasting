@@ -77,3 +77,5 @@ Please include tags where possible to ensure a diverse range of invitees.
 
 **General invitees**
 Invitees are invited to propose a talk, or otherwise simply attend.
+
+* Tony Bagnall (Academic, Software - Aeon sktime adaptation, talk?)
