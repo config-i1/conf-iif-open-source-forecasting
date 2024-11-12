@@ -150,4 +150,12 @@ We hope that this workshop will foster greater collaboration not only across dif
 
 Below is a tentative invitation list:
 
-**To be completed by invitations committee**
+- Arjun Ashok (Python, Academia, Industry, Software)
+- Han Wang (Python, Industry, Applications)
+- Haixu Wu (Python, Academia, Applications)
+- Joaquín Amat Rodrigo (Python, Industry, Software)
+- Lorenzo Stella (Python, Industry, Software, Applications)
+- Matt Dancho (Python, R, Industry, Software)
+- Gerald Woo (Python, Industry, Academia, Software)
+- Yibei hu (Python, Industry, Applications)
+
