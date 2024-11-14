@@ -163,4 +163,6 @@ Below is a tentative invitation list:
 - Chen Chen (Python, Meituan, Applications)
 - Daniele Girolimetto (R, Academia, Developer)
 - Bohan Zhang (R, Python, Academia, Developer)
+- Lan Jiang (Python, R, Academia, Industry, Applications)
+- Shiyu Wang (Python, Industry, Industry, Applications)
 - Yangzhuoran Yang (R, Academia, Developer)
