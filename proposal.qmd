@@ -11,11 +11,11 @@ In the field of forecasting, the use of open-source forecasting software has bec
 
 This workshop was originally proposed in 2024 but has been substantially reworked with a narrower scope to reduce costs and focus discussion topics. This section aims to summarise these revisions, which address the feedback from the original proposal.
 
-Similar to the previous proposal, the workshop is to be ran immediately prior and near to the ISF conference in Beijing (reducing travel costs and increasing invitee availability). The workshop duration has been reduced from five days to two. The two tutorial days have been completely removed (software training is adequately covered by the ISF tutorials). The final day of open problems and future work has been condensed into short talks at the end of each day. This reduced 2-day program has also refined the workshop topics (detailed below) to be focused on improving forecasting software design, sharing new forecasting features, and discussing future software needs in forecasting. The program is designed to foster collaboration in forecasting software development across the various tools, frameworks, and languages in use.
+Similar to the previous proposal, the workshop is to be run immediately prior to and near the ISF conference in Beijing (reducing travel costs and increasing invitee availability). The workshop duration has been reduced from five days to two. The two tutorial days have been completely removed (software training is adequately covered by the ISF tutorials). The final day of open problems and future work has been condensed into short talks at the end of each day. This reduced 2-day program has also refined the workshop topics (detailed below) to be focused on improving forecasting software design, sharing new forecasting features, and discussing future software needs in forecasting. The program is designed to foster collaboration in forecasting software development across the various tools, frameworks, and languages in use.
 
 <!-- We also considered integrating this workshop into special sessions of ISF, but [too large a session; avoid conflict in relevant developers teaching tutorials or attending other sessions; goal of comprehensive discussion from diverse users/developers] -->
 
-The expected participants has been reduced from 50 to a maximum of 30 participants by invitation only. Special care is being taken to ensure participation from a diverse, knowledgeable and collaborative group. We expect roughly equal participation from academia and industry, with invitees across all career stages from around the world. With the ISF conference (and this proposed workshop) being in Beijing, we invite forecasters from large Chinese technology firms including Alibaba, Tencent and ByteDance. We have allocated funding in the budget to support travel and accommodation for invitees who are early-career forecasters (ECFs) or members of under-represented low-SES groups within the forecasting software community.
+The expected participants have been reduced from 50 to a maximum of 30 participants by invitation only. Special care is being taken to ensure participation from a diverse, knowledgeable and collaborative group. We expect roughly equal participation from academia and industry, with invitees across all career stages from around the world. With the ISF conference (and this proposed workshop) being in Beijing, we invite forecasters from large Chinese technology firms including Alibaba, Tencent and ByteDance. We have allocated funding in the budget to support travel and accommodation for invitees who are early-career forecasters (ECFs) or members of under-represented low-SES groups within the forecasting software community.
 
 These changes have allowed for a significantly reduced budget, from US\$26,000 to approximately US\$12,000. This includes the elimination of workshop fees, and reduced reliance on third-party sponsorship. We are requesting a maximum of US\$10,000 from the International Institute of Forecasters (IIF) to fund any expenses not covered by sponsors.
 
@@ -157,5 +157,12 @@ Below is a tentative invitation list:
 - Lorenzo Stella (Python, Industry, Software, Applications)
 - Matt Dancho (Python, R, Industry, Software)
 - Gerald Woo (Python, Industry, Academia, Software)
-- Yibei hu (Python, Industry, Applications)
-
+- Yibei Hu (Python, Industry, Applications)
+- Zisheng Sun (Python, ByteDance Inc., Applications)
+- Songtao Li (Python, Apple Inc. China, Applications)
+- Chen Chen (Python, Meituan, Applications)
+- Daniele Girolimetto (ECF, R, Academia, Developer)
+- Yangzhuoran Yang (ECF, R, Academia, Developer)
+- Bohan Zhang (ECF, R, Python, Academia, Developer)
+- Lan Jiang (ECF, Python, R, Academia, Industry, Applications)
+- Shiyu Wang (Python, Industry, Industry, Applications)
