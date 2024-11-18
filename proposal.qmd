@@ -150,6 +150,13 @@ We hope that this workshop will foster greater collaboration not only across dif
 
 Below is a tentative invitation list:
 
+- Mitchell O'Hara-Wild (R, Academia, Industry, Software)
+- Ivan Svetunkov (R, Academia)
+- Bahman Rostami-Tabar (R, Academia)
+- Xiaoqian Wang (R, Academia)
+- Azul Garza Ramirez (Python, Industry, Software)
+- Resul Akay (R, Julia, Industry, Software)
+- Shanika Wickramasuriya (R, Academia)
 - Arjun Ashok (Python, Academia, Industry, Software)
 - Han Wang (Python, Industry, Applications)
 - Haixu Wu (Python, Academia, Applications)
@@ -166,3 +173,9 @@ Below is a tentative invitation list:
 - Bohan Zhang (ECF, R, Python, Academia, Developer)
 - Lan Jiang (ECF, Python, R, Academia, Industry, Applications)
 - Shiyu Wang (Python, Industry, Industry, Applications)
+- Rob J. Hyndman (R, Academia)
+- Tim Januschowski (Python, Industry)
+- Pablo Montero Manso (Python, R, Industry)
+- Nikos Kourentzes (R, Academia)
+- Anastasios Panagiotelis (R, Academia)
+- Rebecca Killick (R, Academia. JSS Co-EiC)
