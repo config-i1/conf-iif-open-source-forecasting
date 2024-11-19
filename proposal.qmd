@@ -179,3 +179,8 @@ Below is a tentative invitation list:
 - Nikos Kourentzes (R, Academia)
 - Anastasios Panagiotelis (R, Academia)
 - Rebecca Killick (R, Academia. JSS Co-EiC)
+- Priyanga Dilini Talagala (R, Academia)
+- Christoph Bergmeir (Python, Academia)
+- Souhaib Ben Taieb (R, Academia)
+- Feng Li (R, Academia)
+- Nuwani Palihawadana (R, Academia)
