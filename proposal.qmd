@@ -85,9 +85,9 @@ tibble::tribble(
 
 {{< pagebreak >}}
 
-## Workshop aim
+<!-- ## Workshop aim -->
 
-During this 2-day workshop, our focus will be on exploring the most recent advancements and advanced capabilities within open-source forecasting software. Furthermore, we will engage in discussions about the future possibilities of these tools. Our main goal is to empower participants by enhancing their skill-sets and providing a deeper understanding of the current opportunities. Through fostering conversations on best practices, and recognizing potential areas for improvement, we aim to facilitate research collaboration and foster partnerships with open-source software developers.
+<!-- During this 2-day workshop, our focus will be on exploring the most recent advancements and advanced capabilities within open-source forecasting software. Furthermore, we will engage in discussions about the future possibilities of these tools. Our main goal is to empower participants by enhancing their skill-sets and providing a deeper understanding of the current opportunities. Through fostering conversations on best practices, and recognizing potential areas for improvement, we aim to facilitate research collaboration and foster partnerships with open-source software developers. -->
 
 ## Workshop format
 
@@ -101,7 +101,7 @@ Core topics for the workshop include:
 * Future developments for forecasting software (current plans, open problems, ...)
 * Forecasting at scale (hierarchical, big data, optimisation, ...)
 
-The program allows for a total of 12 in-depth presentations and 8 short talks with plentiful time for discussion and Q&A.
+The program allows for 12 in-depth presentations and 8 short talks with plentiful discussion and Q&A time.
 
 ### 25th June 2025
 
@@ -151,16 +151,16 @@ tibble::tribble(
   kable_styling(latex_options = "HOLD_position")
 ```
 
-Preliminary discussions with potential sponsors indicate that the majority of this budget can be funded by sponsorship. We are requesting a grant of up to **\$6,000** from the IIF to fund this workshop, to cover any portion of the budget not funded by third-party sponsors.
+Preliminary discussions with potential sponsors indicate that the majority of this budget can be funded by seeking sponsorship. We are requesting a grant of **up to US3\$6,000** from the IIF to fund this workshop, to cover any portion of the budget not funded by third-party sponsors.
 
 
-## Invited participants
-
-<!-- , many of whom may not yet be closely connected to the International Institute of Forecasters (IIF).  -->
+## Potential invitees
 
 This workshop provides a unique opportunity to bring together a diverse, knowledgeable, and collaborative group of forecasting professionals. We are striving for a balance between academia and industry, with a focus on engaging participants from a wide range of career stages and backgrounds. Many invitees of this workshop are familiar faces at the ISF conferences, however this year's ISF in Beijing presents an exciting outreach opportunity to engage forecasters from Asia who are under-represented in the IIF. In particular, we have invited several developers from large Chinese technology firms, including Alibaba, Tencent, and ByteDance. Diverse participation in this workshop will create rich and varied discussions about the latest forecasting innovations. 
 
 We hope that this workshop will foster greater collaboration not only across different programming languages but also among developers from around the world, bridging communities that seldom interact due to language barriers. To support attendance of under-represented groups, we have allocated funding for the travel and accommodation of early-career forecasters (ECFs) and individuals from low-SES backgrounds, helping us build a more inclusive and global community of forecasters.
+
+{{< pagebreak >}}
 
 Below is a tentative invitation list:
 
