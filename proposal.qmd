@@ -27,7 +27,19 @@ An additional outcome of this workshop (beyond software contributions) could be 
 
 ## Key details
 
-[MITCH TODO, 1-paragraph summary of workshop planning details]
+<!-- * Two day workshop ran immediately prior to the ISF 2025 conference in Beijing -->
+<!-- * 30 participants by invitation only. Participants have been carefully considered to bring together a diverse, knowledgeable, and collaborative group of forecasting professionals (including academia/industry/government, career stage, programming language, and country) -->
+<!-- * No registration cost for participants, with travel support budgeted for ECF and low-SES invitees. -->
+<!-- * Yanfei Kang has helped us find a space available for this workshop at Beihang University -->
+<!-- * focus on discussing the most recent advancements and future possibilities within open-source forecasting software. -->
+<!-- * establish best practices, facilitate collaboration among open-source software developers. -->
+
+The IIF workshop on Open Source Forecasting is a two-day event scheduled to take place immediately before the ISF 2025 conference in Beijing. The workshop will host 30 participants, selected by invitation to ensure a diverse group of professionals from academia, industry, and government. To encourage new discussions and ideas, invitees have been chosen to represent a mix of career stages, programming language expertise, and countries.
+
+The workshop will focus on recent advancements and future possibilities in open-source forecasting software. It aims to establish best practices and encourage collaboration among developers to advance the development and use of open-source tools in forecasting.
+
+There is no registration fee for the workshop, and travel support is available for Early Career Forecasters (ECFs) and invitees from low-SES backgrounds (by application). The likely venue for this event is Beihang University, with thanks to Yanfei Kang for helping arrange this space at no cost (as a venue sponsor). Most of the US\$12,000 workshop budget is expected to come from third-party sponsors. We are requesting a grant of up to US\$6,000 from the IIF to cover any shortfall.
+
 
 ```{r label, echo=FALSE, fig.pos='H'}
 library(kableExtra)
@@ -38,7 +50,8 @@ tibble::tribble(
   "Location", "Haidian District, Beijing, China",
   "Probable venue", "Beihang University",
   "Maximum participants", "30",
-  "Budget", "US$12,000"
+  "Total budget", "US$12,000",
+  "IIF grant request", "US$6,000"
 ) |>
   kable(col.names = NULL, booktabs = TRUE, caption = "Key proposal details") |>
   kable_classic() |> 
