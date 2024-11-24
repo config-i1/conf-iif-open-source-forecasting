@@ -17,7 +17,7 @@ Similar to the previous proposal, the workshop is to be run immediately prior to
 
 The expected participants have been reduced from 50 to a maximum of 30 participants by invitation only. Special care is being taken to ensure participation from a diverse, knowledgeable and collaborative group. We expect roughly equal participation from academia and industry, with invitees across all career stages from around the world. With the ISF conference (and this proposed workshop) being in Beijing, we invite forecasters from large Chinese technology firms including Alibaba, Tencent and ByteDance. We have allocated funding in the budget to support travel and accommodation for invitees who are early-career forecasters (ECFs) or members of under-represented low-SES groups within the forecasting software community.
 
-These changes have allowed for a significantly reduced budget, from US\$26,000 to approximately US\$12,000. This includes the elimination of workshop fees, and reduced reliance on third-party sponsorship. We are requesting a maximum of US\$10,000 from the International Institute of Forecasters (IIF) to fund any expenses not covered by sponsors.
+These changes have allowed for a significantly reduced budget, from US\$26,000 to approximately US\$12,000. This includes the elimination of workshop fees, and reduced reliance on third-party sponsorship. We are requesting a maximum of US\$6,000 from the International Institute of Forecasters (IIF) to fund any expenses not covered by sponsors.
 
 Notably the organizing committee has been restructured with clearer roles and responsibilities of each member. Mitchell O'Hara-Wild has taken the initiative of coordinating the committee and event (originally Bahman Rostami-Tabar), and Xiaoqian Wang has joined to provide local support in Beijing.
 
@@ -138,7 +138,7 @@ tibble::tribble(
   kable_styling(latex_options = "HOLD_position")
 ```
 
-We are requesting a grant of up to **\$10,000** from the IIF to fund this workshop, to cover any portion of the budget not funded by third-party sponsors.
+Preliminary discussions with potential sponsors indicate that the majority of this budget can be funded by sponsorship. We are requesting a grant of up to **\$6,000** from the IIF to fund this workshop, to cover any portion of the budget not funded by third-party sponsors.
 
 
 ## Invited participants
