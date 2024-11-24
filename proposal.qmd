@@ -33,9 +33,10 @@ An additional outcome of this workshop (beyond software contributions) could be 
 library(kableExtra)
 options(knitr.kable.NA = '')
 tibble::tribble(
-  ~a, ~b,
+  ~Key, ~Value,
   "Date", "June 26-27th 2025 (Thursday-Friday before ISF2025)",
-  "Location", "Haidian District, Beijing, China (venue TBC)",
+  "Location", "Haidian District, Beijing, China",
+  "Probable venue", "Beihang University",
   "Maximum participants", "30",
   "Budget", "US$12,000"
 ) |>
